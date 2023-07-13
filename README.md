@@ -5,7 +5,7 @@ Welcome to the LangChain-Tutorials repository! This repository is a comprehensiv
 LangChain is a powerful Python library that enables developers to work with languages in an efficient and intuitive manner. It provides a range of tools and functionalities to analyze, manipulate, and process text data, making it an invaluable resource for natural language processing tasks.
 
 ## Repository Structure
-This repository is organized into various sections, each covering different aspects of the LangChain library. Here's an overview of the sections and what they offer:
+This repository is organized into various sections, each covering different aspects of the LangChain library. Here's an overview of the sections:
 
 * [Quickstart guide](https://github.com/SiddheshBangar/LangChain-Tutorials/tree/main/Quickstart)
 
