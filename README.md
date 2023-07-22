@@ -8,6 +8,7 @@ LangChain is a powerful Python library that enables developers to work with lang
 This repository is organized into various sections, each covering different aspects of the LangChain library. Here's an overview of the sections:
 
 * [Quickstart guide](https://github.com/SiddheshBangar/LangChain-Tutorials/tree/main/Quickstart)
+* [Schema](https://github.com/SiddheshBangar/LangChain-Tutorials/tree/main/2.%20Schema)
 
 ## Contributions
 We welcome contributions from the community to improve and expand the LangChain-Tutorials repository. If you have any ideas, bug reports, or feature requests, please feel free to reach me out or inform using the issue tab.
