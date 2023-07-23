@@ -9,6 +9,7 @@ This repository is organized into various sections, each covering different aspe
 
 * [Quickstart guide](https://github.com/SiddheshBangar/LangChain-Tutorials/tree/main/Quickstart)
 * [Schema](https://github.com/SiddheshBangar/LangChain-Tutorials/tree/main/2.%20Schema)
+* [Language Model](https://github.com/SiddheshBangar/LangChain-Tutorials/tree/main/3.%20Language%20Model)
 
 ## Contributions
 We welcome contributions from the community to improve and expand the LangChain-Tutorials repository. If you have any ideas, bug reports, or feature requests, please feel free to reach me out or inform using the issue tab.
